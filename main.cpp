@@ -60,7 +60,7 @@ int main() {
 // Void , top or up, Void , Void
 // left , front , right, back
 // Void , bottom or down, Void, Void
-// (0, 0, 0) at the botom left of front.
+// (0, 0, 0) at the bottom left of front.
     ofstream destroyInsideFile(file.c_str(), ios_base::out);
     destroyInsideFile.close();
 
